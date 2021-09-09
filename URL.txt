@@ -1,0 +1,4 @@
+https://weatherapp-rijvi.herokuapp.com
+https://admin-demo.nopcommerce.com/login
+http://demo.automationtesting.in/Register.html
+https://testautomationpractice.blogspot.com/
